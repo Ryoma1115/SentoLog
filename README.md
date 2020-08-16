@@ -1,4 +1,7 @@
 # Sento（銭湯）Log
+### 🌐 App URL
+アプリのURLはこちらです！　https://sentolog.work/
+
 ### サイトTop
 ![screencapture-sentolog-work-2020-08-04-21_20_14](https://user-images.githubusercontent.com/63144797/89409131-836ad080-d75c-11ea-9148-fe6771ceca46.jpg)
 
@@ -31,7 +34,3 @@
 
 ### ☁️ Infrastructure Configuration Diagram
 ![AWS　構成図](https://user-images.githubusercontent.com/63144797/90334523-306d0500-e009-11ea-9929-b7d13dc1687e.png)
-
-
-### 🌐 App URL
-https://sentolog.work/
