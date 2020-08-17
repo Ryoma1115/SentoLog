@@ -33,4 +33,4 @@
 
 
 ### ☁️ Infrastructure Configuration Diagram
-![AWS　構成図](https://user-images.githubusercontent.com/63144797/90334523-306d0500-e009-11ea-9929-b7d13dc1687e.png)
+![AWS　構成図(新1)](https://user-images.githubusercontent.com/63144797/90403848-81016280-e0dc-11ea-90b7-2ef6f160b5c4.png)
