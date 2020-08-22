@@ -36,3 +36,7 @@
 
 ### ☁️ Infrastructure Configuration Diagram
 ![AWS　構成図(新1)](https://user-images.githubusercontent.com/63144797/90403848-81016280-e0dc-11ea-90b7-2ef6f160b5c4.png)
+
+### 作者　
+高根陵平  
+mail to: t9831703@gmail.com
