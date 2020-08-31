@@ -25,9 +25,45 @@
 ・温泉好き  
 ・リフレッシュされたい方  
 
+## 機能一覧
+・ユーザー認証機能（devise）  
+・検索機能  
+・画像アップロード  
+・星評価（レビュー）機能  
+・口コミ投稿機能  
+・住所自動入力機能  
+・いいね機能（非同期通信）  
+・地図表示（google map api）  
 
-### 機能一覧  
-<https://docs.google.com/spreadsheets/d/1OGuCo_K67j2KjhKIx9M4pzZEmbRTKsqgRO9rrCenckM/edit#gid=0>  
+詳細は下記よりご覧ください。  
+<https://docs.google.com/spreadsheets/d/1OGuCo_K67j2KjhKIx9M4pzZEmbRTKsqgRO9rrCenckM/edit#gid=0> 
+
+## 環境・使用技術
+### フロントエンド
+・HTML / CSS  
+・Bootstrap 3.3.6  
+・JavaScript、jQuery、Ajax  
+
+### バックエンド
+・Ruby 2.5.7  
+・Rails 5.2.4.3  
+
+### 開発環境
+・Vagrant 2.2.4  
+・MySQL2  
+
+### 本番環境
+・AWS (EC2、RDS for MySQL、Route53、CloudWatch)  
+・MySQL2  
+・Nginx、 Puma  
+・Capistrano自動デプロイ 
+
+### テスト
+・Rspec（単体・結合）計 200 example以上
+
+### その他使用技術
+・HTTPS接続 (Certbot)  
+・チーム開発を意識したGitHubの活用 （マイルストーン、イシュー、プルリク、マージ）   
 
 
 ### ER図
