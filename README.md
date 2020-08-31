@@ -59,7 +59,7 @@
 ・Capistrano自動デプロイ 
 
 ### テスト
-・Rspec（単体・結合）計 200 example以上
+・Rspec（capybara, factorybot, springを使用）　計 200 example以上作成
 
 ### その他使用技術
 ・HTTPS接続 (Certbot)  
